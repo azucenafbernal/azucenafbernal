@@ -8,11 +8,7 @@ I'm an Undergraduate from Informatics Engineering Degree in UCLM.
 - Fun fact: My dog is my favorite model for figure insertion and positioning tests in LaTeX.
 
 ## Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,docker,html,css,linux,git)](https://skillicons.dev)
 
 ## Featured Projects
 - **[Exact Number](https://github.com/RaulJDlCRUZ/exact-number):** A specialized tool inspired by the TV show *'Cifras y Letras'*. 
@@ -25,5 +21,5 @@ I'm an Undergraduate from Informatics Engineering Degree in UCLM.
 
 
 ### GitHub Stats
-![Azucena's Stats](https://github-readme-stats.vercel.app/api?username=azucenafbernal&show_icons=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azucenafbernal&layout=compact&theme=blue-green)
+![Azucena's Stats](https://github-readme-stats.vercel.app/api?username=azucenafbernal&show_icons=true&title_color=39d353&icon_color=39d353&text_color=e6edf3&bg_color=0d1117&border_color=39d353)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azucenafbernal&layout=compact&title_color=39d353&icon_color=39d353&text_color=e6edf3&bg_color=0d1117&border_color=39d353)
