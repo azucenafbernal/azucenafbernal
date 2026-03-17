@@ -25,5 +25,5 @@ I'm an Undergraduate from Informatics Engineering Degree in UCLM.
 
 
 ### GitHub Stats
-![Azucena's Stats](https://github-readme-stats.vercel.app/api?username=azucenafbernal&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azucenafbernal&layout=compact&theme=highcontrast)
+![Azucena's Stats](https://github-readme-stats.vercel.app/api?username=azucenafbernal&show_icons=true&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azucenafbernal&layout=compact&theme=blue-green)
