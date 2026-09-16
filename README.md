@@ -21,6 +21,6 @@ I'm an Undergraduate from Informatics Engineering Degree in UCLM.
 
 
 ### GitHub Stats
-[![Azucena's Stats](https://github-readme-stats.vercel.app/api?username=azucenafbernal\&show_icons=true\&title_color=39d353\&icon_color=39d353\&text_color=e6edf3\&bg_color=0d1117\&border_color=39d353)](https://github.com/azucenafbernal)
+![Azucena's Stats](https://github-readme-stats.vercel.app/api?username=azucenafbernal\&show_icons=true\&title_color=39d353\&icon_color=39d353\&text_color=e6edf3\&bg_color=0d1117\&border_color=39d353)(https://github.com/azucenafbernal)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azucenafbernal\&layout=compact\&title_color=39d353\&icon_color=39d353\&text_color=e6edf3\&bg_color=0d1117\&border_color=39d353)](https://github.com/azucenafbernal)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azucenafbernal\&layout=compact\&title_color=39d353\&icon_color=39d353\&text_color=e6edf3\&bg_color=0d1117\&border_color=39d353)(https://github.com/azucenafbernal)
