@@ -24,4 +24,6 @@ I'm an Undergraduate from Informatics Engineering Degree in UCLM.
 
 ![Azucena's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=azucenafbernal&show_icons=true&title_color=39d353&icon_color=39d353&text_color=e6edf3&bg_color=0d1117&border_color=39d353)
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azucenafbernal&layout=compact&title_color=39d353&icon_color=39d353&text_color=e6edf3&bg_color=0d1117&border_color=39d353)ries)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azucenafbernal&layout=compact&title_color=39d353&icon_color=39d353&text_color=e6edf3&bg_color=0d1117&border_color=39d353)
+
+![Azucena's Streak](https://github-readme-streak-stats.herokuapp.com/?user=azucenafbernal&theme=dark&hide_border=true)
